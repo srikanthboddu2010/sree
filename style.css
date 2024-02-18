@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 220px;
+    border: solid 1px silver;
+    border-radius: 5px;
+}
+img{
+    width: 100%;
+    border-radius: 2px;
+}
+button{
+    background: yellow;
+    border: solid 1px white;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+button:hover{
+   color: aqua;
+}
